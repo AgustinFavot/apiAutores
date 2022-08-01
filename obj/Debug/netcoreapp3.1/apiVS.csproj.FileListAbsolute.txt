@@ -1,0 +1,176 @@
+C:\Users\agus-\OneDrive\Documentos\Programacion\WEB API VS\apiVS\obj\Debug\netcoreapp3.1\apiVS.csproj.AssemblyReference.cache
+C:\Users\agus-\OneDrive\Documentos\Programacion\WEB API VS\apiVS\obj\Debug\netcoreapp3.1\apiVS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agus-\OneDrive\Documentos\Programacion\WEB API VS\apiVS\obj\Debug\netcoreapp3.1\apiVS.AssemblyInfoInputs.cache
+C:\Users\agus-\OneDrive\Documentos\Programacion\WEB API VS\apiVS\obj\Debug\netcoreapp3.1\apiVS.AssemblyInfo.cs
+C:\Users\agus-\OneDrive\Documentos\Programacion\WEB API VS\apiVS\obj\Debug\netcoreapp3.1\apiVS.csproj.CoreCompileInputs.cache
+C:\Users\agus-\OneDrive\Documentos\Programacion\WEB API VS\apiVS\obj\Debug\netcoreapp3.1\apiVS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\agus-\OneDrive\Documentos\Programacion\WEB API VS\apiVS\obj\Debug\netcoreapp3.1\apiVS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\agus-\OneDrive\Documentos\Programacion\WEB API VS\apiVS\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\agus-\OneDrive\Documentos\Programacion\WEB API VS\apiVS\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\agus-\OneDrive\Documentos\Programacion\WEB API VS\apiVS\bin\Debug\netcoreapp3.1\apiVS.exe
+C:\Users\agus-\OneDrive\Documentos\Programacion\WEB API VS\apiVS\bin\Debug\netcoreapp3.1\apiVS.deps.json
+C:\Users\agus-\OneDrive\Documentos\Programacion\WEB API VS\apiVS\bin\Debug\netcoreapp3.1\apiVS.runtimeconfig.json
+C:\Users\agus-\OneDrive\Documentos\Programacion\WEB API VS\apiVS\bin\Debug\netcoreapp3.1\apiVS.runtimeconfig.dev.json
+C:\Users\agus-\OneDrive\Documentos\Programacion\WEB API VS\apiVS\bin\Debug\netcoreapp3.1\apiVS.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\WEB API VS\apiVS\bin\Debug\netcoreapp3.1\apiVS.pdb
+C:\Users\agus-\OneDrive\Documentos\Programacion\WEB API VS\apiVS\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\WEB API VS\apiVS\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\WEB API VS\apiVS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\WEB API VS\apiVS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\WEB API VS\apiVS\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\WEB API VS\apiVS\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\WEB API VS\apiVS\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\WEB API VS\apiVS\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\WEB API VS\apiVS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\WEB API VS\apiVS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\WEB API VS\apiVS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\WEB API VS\apiVS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\WEB API VS\apiVS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\WEB API VS\apiVS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\WEB API VS\apiVS\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\WEB API VS\apiVS\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\WEB API VS\apiVS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\WEB API VS\apiVS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\WEB API VS\apiVS\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\WEB API VS\apiVS\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\WEB API VS\apiVS\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\WEB API VS\apiVS\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\WEB API VS\apiVS\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\WEB API VS\apiVS\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\WEB API VS\apiVS\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\WEB API VS\apiVS\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\WEB API VS\apiVS\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\WEB API VS\apiVS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\WEB API VS\apiVS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\WEB API VS\apiVS\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\WEB API VS\apiVS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\WEB API VS\apiVS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\WEB API VS\apiVS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\WEB API VS\apiVS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\WEB API VS\apiVS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\WEB API VS\apiVS\obj\Debug\netcoreapp3.1\staticwebassets\apiVS.StaticWebAssets.Manifest.cache
+C:\Users\agus-\OneDrive\Documentos\Programacion\WEB API VS\apiVS\obj\Debug\netcoreapp3.1\apiVS.RazorTargetAssemblyInfo.cache
+C:\Users\agus-\OneDrive\Documentos\Programacion\WEB API VS\apiVS\obj\Debug\netcoreapp3.1\apiVS.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\WEB API VS\apiVS\obj\Debug\netcoreapp3.1\apiVS.pdb
+C:\Users\agus-\OneDrive\Documentos\Programacion\WEB API VS\apiVS\obj\Debug\netcoreapp3.1\apiVS.genruntimeconfig.cache
+C:\Users\agus-\OneDrive\Documentos\Programacion\apiAutores\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\agus-\OneDrive\Documentos\Programacion\apiAutores\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\agus-\OneDrive\Documentos\Programacion\apiAutores\bin\Debug\netcoreapp3.1\apiVS.exe
+C:\Users\agus-\OneDrive\Documentos\Programacion\apiAutores\bin\Debug\netcoreapp3.1\apiVS.deps.json
+C:\Users\agus-\OneDrive\Documentos\Programacion\apiAutores\bin\Debug\netcoreapp3.1\apiVS.runtimeconfig.json
+C:\Users\agus-\OneDrive\Documentos\Programacion\apiAutores\bin\Debug\netcoreapp3.1\apiVS.runtimeconfig.dev.json
+C:\Users\agus-\OneDrive\Documentos\Programacion\apiAutores\bin\Debug\netcoreapp3.1\apiVS.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\apiAutores\bin\Debug\netcoreapp3.1\apiVS.pdb
+C:\Users\agus-\OneDrive\Documentos\Programacion\apiAutores\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\apiAutores\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\apiAutores\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\apiAutores\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\apiAutores\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\apiAutores\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\apiAutores\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\apiAutores\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\apiAutores\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\apiAutores\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\apiAutores\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\apiAutores\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\apiAutores\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\apiAutores\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\apiAutores\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\apiAutores\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\apiAutores\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\apiAutores\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\apiAutores\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\apiAutores\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\apiAutores\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\apiAutores\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\apiAutores\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\apiAutores\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\apiAutores\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\apiAutores\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\apiAutores\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\apiAutores\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\apiAutores\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\apiAutores\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\apiAutores\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\apiAutores\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\apiAutores\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\apiAutores\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\apiAutores\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\apiAutores\obj\Debug\netcoreapp3.1\apiVS.csproj.AssemblyReference.cache
+C:\Users\agus-\OneDrive\Documentos\Programacion\apiAutores\obj\Debug\netcoreapp3.1\apiVS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agus-\OneDrive\Documentos\Programacion\apiAutores\obj\Debug\netcoreapp3.1\apiVS.AssemblyInfoInputs.cache
+C:\Users\agus-\OneDrive\Documentos\Programacion\apiAutores\obj\Debug\netcoreapp3.1\apiVS.AssemblyInfo.cs
+C:\Users\agus-\OneDrive\Documentos\Programacion\apiAutores\obj\Debug\netcoreapp3.1\apiVS.csproj.CoreCompileInputs.cache
+C:\Users\agus-\OneDrive\Documentos\Programacion\apiAutores\obj\Debug\netcoreapp3.1\apiVS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\agus-\OneDrive\Documentos\Programacion\apiAutores\obj\Debug\netcoreapp3.1\apiVS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\agus-\OneDrive\Documentos\Programacion\apiAutores\obj\Debug\netcoreapp3.1\staticwebassets\apiVS.StaticWebAssets.Manifest.cache
+C:\Users\agus-\OneDrive\Documentos\Programacion\apiAutores\obj\Debug\netcoreapp3.1\apiVS.RazorTargetAssemblyInfo.cache
+C:\Users\agus-\OneDrive\Documentos\Programacion\apiAutores\obj\Debug\netcoreapp3.1\apiVS.dll
+C:\Users\agus-\OneDrive\Documentos\Programacion\apiAutores\obj\Debug\netcoreapp3.1\apiVS.pdb
+C:\Users\agus-\OneDrive\Documentos\Programacion\apiAutores\obj\Debug\netcoreapp3.1\apiVS.genruntimeconfig.cache
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\bin\Debug\netcoreapp3.1\apiVS.exe
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\bin\Debug\netcoreapp3.1\apiVS.deps.json
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\bin\Debug\netcoreapp3.1\apiVS.runtimeconfig.json
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\bin\Debug\netcoreapp3.1\apiVS.runtimeconfig.dev.json
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\bin\Debug\netcoreapp3.1\apiVS.dll
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\bin\Debug\netcoreapp3.1\apiVS.pdb
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\obj\Debug\netcoreapp3.1\apiVS.csproj.AssemblyReference.cache
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\obj\Debug\netcoreapp3.1\apiVS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\obj\Debug\netcoreapp3.1\apiVS.AssemblyInfoInputs.cache
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\obj\Debug\netcoreapp3.1\apiVS.AssemblyInfo.cs
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\obj\Debug\netcoreapp3.1\apiVS.csproj.CoreCompileInputs.cache
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\obj\Debug\netcoreapp3.1\apiVS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\obj\Debug\netcoreapp3.1\apiVS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\obj\Debug\netcoreapp3.1\staticwebassets\apiVS.StaticWebAssets.Manifest.cache
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\obj\Debug\netcoreapp3.1\staticwebassets\apiVS.StaticWebAssets.xml
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\obj\Debug\netcoreapp3.1\scopedcss\bundle\apiVS.styles.css
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\obj\Debug\netcoreapp3.1\apiVS.RazorTargetAssemblyInfo.cache
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\obj\Debug\netcoreapp3.1\apiVS.csproj.CopyComplete
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\obj\Debug\netcoreapp3.1\apiVS.dll
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\obj\Debug\netcoreapp3.1\apiVS.pdb
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\obj\Debug\netcoreapp3.1\apiVS.genruntimeconfig.cache
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Agustin Favot\Documents\PROGRAMACION\apiAutores\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
